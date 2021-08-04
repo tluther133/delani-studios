@@ -9,6 +9,9 @@ A web application dedicated to showing projects currently accomplished by Delani
 * CSS3 for the styling.
 * jQuery for the algorithm responsible for interactivity.
 
+## Active Link
+Currently working link to the project: https://tluther133.github.io/delani-studios/
+
 ## BDD
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
